@@ -1,0 +1,10 @@
+{
+    "files": [
+        "build/src/**/*.ts"
+    ],
+    "compilerOptions": {
+        "rootDir": "build/src",
+        "noImplicitAny": true,
+        "target": "es5"
+    }
+}
